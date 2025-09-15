@@ -46,3 +46,8 @@ Cuando tengas varios nombres, haz clic en **Sortear amigo**.
 
 ## 👤 Autor
 Hecho con 💻 y ☕ por [https://github.com/Daniela-2025].
+
+## 🚀 Demo en vivo
+Puedes probar el proyecto aquí:  
+👉 [Amigo Secreto](https://daniela-2025.github.io/amigo-secreto/)
+
