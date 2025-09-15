@@ -160,3 +160,28 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+/* Botón eliminar (❌) al lado de cada amigo */
+.delete-btn {
+    margin-left: 10px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    color: red;
+    font-size: 1.2rem;
+    transition: transform 0.2s ease;
+}
+.delete-btn:hover {
+    transform: scale(1.2);
+}
+
+/* Botón de reinicio */
+.button-restart {
+    margin-top: 15px;
+    background-color: #777;
+    color: var(--color-white);
+    width: 100%;
+    padding: 10px 40px;
+}
+.button-restart:hover {
+    background-color: #555;
+}

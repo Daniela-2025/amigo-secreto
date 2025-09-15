@@ -11,7 +11,7 @@ Lo hice con **HTML, CSS y JavaScript** para practicar lógica de programación.
 - Ver los nombres en pantalla.
 - Sortear un amigo al azar.
 - Mostrar el resultado en la página.
-
+- Reiniciar 
 ---
 
 ## 🚀 Cómo usar
@@ -26,14 +26,14 @@ Abre el archivo `index.html` en tu navegador.
 ### 2️⃣ Escribir nombres y añadir
 Escribe los nombres y dale al botón **Añadir**.  
 
-![Añadir nombres](assets/AÑADIR-NOMBRE.png)
+![Añadir nombres](assets/PONER-NOMBRE.png)
 
 ---
 
 ### 3️⃣ Sortear
 Cuando tengas varios nombres, haz clic en **Sortear amigo**.  
 
-![Sortear amigo](assets/DAR-CLICK-SORTEAR.png)
+![Sortear amigo](assets/SORTEAR-AMIGO.png)
 
 ---
 
@@ -41,6 +41,10 @@ Cuando tengas varios nombres, haz clic en **Sortear amigo**.
 ¡Listo! Aparecerá el amigo secreto elegido.  
 
 ![Resultado sorteo](assets/CHALLENGE.png)
+
+### 4️⃣ Reiniciar
+Si quieres volver a jugar le das click en **Reiniciar**.  
+![Reiniciar](assets/REINICIAR.png)
 
 ---
 
